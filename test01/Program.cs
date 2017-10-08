@@ -10,7 +10,7 @@ namespace test01
     {
         static void Main(string[] args)
         {
-            string newstring = "A String";
+            string newstring = "A string genenrate ";
             foreach (char item in newstring)
             {
                 Console.WriteLine(item);
